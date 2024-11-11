@@ -32,3 +32,5 @@ Your friend only desires to purchase something from their wish list if the cost 
 Your code should submitted in a .py file. Be sure to leave comments so the reader knows what you're doing!
 
 I would recommend creating a Jupyter Notebook to document your thought process and breaking down the problem. If you desire, one has been included with some guiding questions.
+
+[Notes on importing and using CSV values in Python](https://python-forum.io/thread-28366.html)
