@@ -25,6 +25,8 @@ The way your friend wishes to budget their expenses is below. Assume they are st
 - If for some reason your friend's checking account is overdrafted, then they will immediately transfer the overdraft amount plus $25 into their checking account from their savings account.
   - In the case they do not have any money in savings, your friend can not transfer anything in and must take an additional overdraft fee into their checking account of $30.00.
 
+### Wishlist Purchases
+Your friend only desires to purchase something from their wish list if the cost of the item is at most 20% of the amount in their savings account at the beginning of a pay period.
 
 ### Methodology
 Your code should submitted in a .py file. Be sure to leave comments so the reader knows what you're doing!
