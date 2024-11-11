@@ -19,7 +19,7 @@ The way your friend wishes to budget their expenses is below. Assume they are st
   - Eating out: 20%
   - Pet supplies: $50.00
   - Gas: $100.00
-  - Travel fund: $50.00
+  - Travel fund: $50.00 (Set aside for future use)
   - Misc: 20%
 - At the end of the pay period, if your friend has more than $700 in their checking account after expenses and remaining budget, they will move another $500 to their savings account.
 - If for some reason your friend's checking account is overdrafted, then they will immediately transfer the overdraft amount plus $25 into their checking account from their savings account.
