@@ -3,7 +3,7 @@
 ### Scenario
 With the upcoming year, your friend has made a resolution to be mindful with the amount of money they spend and stop impulse purchases. Knowing your skills with Python, they have asked you to assist them.
 
-Your friend has given you their regular expenses, income, and wishlist. Using these, they want to know how much they can save over the year. Through that savings, they also want to know how long it will take them to be able to afford their wish list and what order they can purchase their wish items the quickest.
+Your friend has given you their regular expenses, income, and wishlist. Using these, they want to know how much they can save over the year. Through that savings, they also want to know how long it will take them to be able to afford their wish list and what order they can purchase their wish items the quickest from their savings.
 
 ### Receivables
 Your friend is paid every two weeks as indicated in the file "income.csv". You are provided the type of income, the amount, the frequency (how far apart), the time measure (days, weeks, months, years, etc), and what day of the week if applicable. In this case, your friend is paid a salary of $2,167.42 every 2 weeks on Friday.
